@@ -6,7 +6,7 @@ var sio = require('socket.io'),
 var upload = multer({
     dest: './uploads/'
 });
-var SMSClient = require('twilio')(process.env.TWILIO_SID, process.env.TWILIO_TOKEN);
+//var SMSClient = require('twilio')(process.env.TWILIO_SID, process.env.TWILIO_TOKEN);
 var nodemailer = require('nodemailer');
 var redis = require('redis')
 var fs = require('fs')
@@ -155,7 +155,7 @@ setInterval(function() {
 app1.listen(4005);
 
 
-function sendSMS(message) {
+/*function sendSMS(message) {
 
     SMSClient.sendMessage({
 
@@ -172,7 +172,7 @@ function sendSMS(message) {
         }
     });
 
-}
+}*/
 
 var transporter = nodemailer.createTransport({
     service: 'Gmail',
