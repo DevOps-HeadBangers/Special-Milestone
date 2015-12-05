@@ -11,16 +11,16 @@ Two test files for file upload **test1.js** (containing multiple test functions 
 
 ### Prerequisites
 =================
-1. Perf should be installed
+* Perf should be installed
 
 > apt-get install linux-tools-common
 > linux-tools-3.13.0-57-generic
 
-2. node version 0.12 should be installed
+* node version 0.12 should be installed
 
 > nvm install -v0.12.7
 
-3. There is a git repo for flame graph. We used [Target App git repo](https://github.com/DevOps-HeadBangers/Milestone3TargetApp.git)
+* There is a git repo for flame graph. We used [Target App git repo](https://github.com/DevOps-HeadBangers/Milestone3TargetApp.git)
 Make sure that the git repo is cloned in the Flame directory. Before starting the project remove the last node part.
 
 ### Process & Commands
