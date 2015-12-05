@@ -57,4 +57,4 @@ Since it needs the latest version of node to run the **perf** command.
 
 ----------
 
-The screencast for the special milestone: [Special Milestone](https://www.youtube.com/watch?v=jg_6qNBrPVo&feature=youtu.be)
+The screencast for the special milestone: [Special Milestone](https://youtu.be/IkMs9yg_56s)
