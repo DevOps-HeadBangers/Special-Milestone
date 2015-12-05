@@ -23,7 +23,8 @@ Two test files for file upload **test1.js** (containing multiple test functions 
 3. There is a git repo for flame graph. We used [Target App git repo](https://github.com/DevOps-HeadBangers/Milestone3TargetApp.git)
 Make sure that the git repo is cloned in the Flame directory. Before starting the project remove the last node part.
 
-
+### Process & Commands
+======================
 
 >**Login to root**
 
